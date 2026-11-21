@@ -1,0 +1,6 @@
+{
+ "seq": 396,
+ "item": "K-0016",
+ "leaf": "6749e514b5244bea07b4d9e8bf9454d081a7fd0e189e7166a481518ed4ffcb09",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-26\",\"event_key\":\"CN-互换-2026-10\",\"id\":\"K-0016\",\"item\":\"K-0016\",\"j_id\":\"J-0108\",\"margin\":null,\"mech\":null,\"note\":\"监测哨：1 年 FR007 互换连续 5 日低于 1.38%，10-26 收盘满足；不计分\",\"power\":null,\"result\":\"触发\",\"review_on\":null,\"salt\":\"16d38be442ded64f5a10974d6318827a\",\"settled_at\":\"2026-11-04\",\"side\":\"监测\",\"th_id\":\"TH-0133\",\"type\":\"K\",\"v\":1,\"verdict\":\"不计\",\"what\":null,\"why\":null}"
+}

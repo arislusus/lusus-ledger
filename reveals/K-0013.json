@@ -1,0 +1,6 @@
+{
+ "seq": 393,
+ "item": "K-0013",
+ "leaf": "c0878ed8be343254ab7c40440b4e7b03f2c38e3183772da9e2a48ec245cb0765",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-30\",\"event_key\":\"PBOC-换锚-2026-10-30\",\"id\":\"K-0013\",\"item\":\"K-0013\",\"j_id\":\"J-0153\",\"margin\":null,\"mech\":null,\"note\":\"同上：以 7 天逆回购操作利率为对象，11-02 起不存在；判断已细化为 J-0172\",\"power\":null,\"result\":\"对象消失\",\"review_on\":null,\"salt\":\"d1473dc7e30df2ba0b587056d85b6390\",\"settled_at\":\"2026-11-04\",\"side\":\"本命题\",\"th_id\":\"TH-0178\",\"type\":\"K\",\"v\":1,\"verdict\":\"不计\",\"what\":\"当局出手\",\"why\":\"文本读轻\"}"
+}

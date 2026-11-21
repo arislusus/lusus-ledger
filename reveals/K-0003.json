@@ -1,0 +1,6 @@
+{
+ "seq": 349,
+ "item": "K-0003",
+ "leaf": "4efd212255ead805923e42c1fbb087317dfd91aeae32988e8d8d43effbdfa4b3",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-16\",\"event_key\":\"EU-理事会-2026-10-16\",\"id\":\"K-0003\",\"item\":\"K-0003\",\"j_id\":\"J-0091\",\"margin\":null,\"mech\":null,\"note\":\"对立假说「降温」被推翻：结论第 12 段邀请欧委会提出新工具；按「或同义表述」判，属边界\",\"power\":\"中\",\"result\":\"触发\",\"review_on\":null,\"salt\":\"06d2efcbc5a67d728425425082474238\",\"settled_at\":\"2026-10-16\",\"side\":\"对手\",\"th_id\":\"TH-0109\",\"type\":\"K\",\"v\":1,\"verdict\":\"对手被推翻\",\"what\":null,\"why\":null}"
+}

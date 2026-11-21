@@ -1,0 +1,6 @@
+{
+ "seq": 418,
+ "item": "K-0023",
+ "leaf": "47f618c1a11b8b95ba0d09e158339424d1bf3a9f678223d74e333ffaa8754acc",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-11-02\",\"event_key\":\"Anthropic-S1-2026Q3\",\"id\":\"K-0023\",\"item\":\"K-0023\",\"j_id\":\"J-0044\",\"margin\":\"远\",\"mech\":\"得到支持\",\"note\":\"三季度收入环比 +46.7%，低于二季度 +144%；事件型条件，按日期扫描时漏掉、复核时补上\",\"power\":\"中\",\"result\":\"未触发\",\"review_on\":null,\"salt\":\"4591ed14bcadbcf5bd74e9c88f2d9228\",\"settled_at\":\"2026-11-08\",\"side\":\"本命题\",\"th_id\":\"TH-0052\",\"type\":\"K\",\"v\":1,\"verdict\":\"过关\",\"what\":null,\"why\":null}"
+}

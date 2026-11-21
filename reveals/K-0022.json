@@ -1,0 +1,6 @@
+{
+ "seq": 417,
+ "item": "K-0022",
+ "leaf": "6a14707e348f359e9fcc73885b1ed6b7828b822a7daadde20a0e16957f6aa144",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-23\",\"event_key\":\"IN-IT四家-2026Q3\",\"id\":\"K-0022\",\"item\":\"K-0022\",\"j_id\":\"J-0065\",\"margin\":\"远\",\"mech\":\"得到支持\",\"note\":\"四家员工合计同比 +0.71%，固定汇率收入同比都为正；触发须 Infosys 一季降一成\",\"power\":\"低\",\"result\":\"未触发\",\"review_on\":null,\"salt\":\"c848971d4720c32f8c8f2756cd047cb4\",\"settled_at\":\"2026-11-08\",\"side\":\"本命题\",\"th_id\":\"TH-0076\",\"type\":\"K\",\"v\":1,\"verdict\":\"过关\",\"what\":null,\"why\":null}"
+}

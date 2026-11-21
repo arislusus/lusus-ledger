@@ -1,0 +1,6 @@
+{
+ "seq": 350,
+ "item": "K-0027",
+ "leaf": "986a8585b3aa36df2a1cef64eef7393584c995192556be7f69f272247bdb370a",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-16\",\"event_key\":\"审计-油价溢价-2026-10-16\",\"id\":\"K-0027\",\"item\":\"K-0027\",\"j_id\":\"J-0009\",\"margin\":null,\"mech\":null,\"note\":\"9 月海湾原油出口已回到战前而溢价未回落，「溢价随通航状态定价」在这一段不成立\",\"power\":null,\"result\":\"部分不成立\",\"review_on\":null,\"salt\":\"3963190403bb8fdc51fbb303574b9243\",\"settled_at\":\"2026-10-16\",\"side\":\"本命题\",\"th_id\":null,\"type\":\"K\",\"v\":1,\"verdict\":\"细化\",\"what\":\"研究复核\",\"why\":\"机制错\"}"
+}

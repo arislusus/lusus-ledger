@@ -1,0 +1,6 @@
+{
+ "seq": 351,
+ "item": "K-0028",
+ "leaf": "b096304905b06f257b3650441c0924605ff7dbd1fc7488acc8a3e7445deafc6e",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-16\",\"event_key\":\"R5-数量工具-2026-10-16\",\"id\":\"K-0028\",\"item\":\"K-0028\",\"j_id\":\"J-0119\",\"margin\":null,\"mech\":null,\"note\":\"R5：「7 天只投 0–500 亿」是全额满足下的需求结果，「建库以来最低」只对 tape.db 成立，不再作证据；前半句改写为 J-0155\",\"power\":null,\"result\":\"部分不成立\",\"review_on\":null,\"salt\":\"b8081aa7dda48e4a09a4934be675af57\",\"settled_at\":\"2026-10-16\",\"side\":\"本命题\",\"th_id\":null,\"type\":\"K\",\"v\":1,\"verdict\":\"细化\",\"what\":\"研究复核\",\"why\":\"事实错\"}"
+}

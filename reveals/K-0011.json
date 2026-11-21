@@ -1,0 +1,6 @@
+{
+ "seq": 391,
+ "item": "K-0011",
+ "leaf": "b68cabf72b0becc05568e9df28481aac997dda88d7bb966f672e8460894b0a6a",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-30\",\"event_key\":\"PBOC-换锚-2026-10-30\",\"id\":\"K-0011\",\"item\":\"K-0011\",\"j_id\":\"J-0156\",\"margin\":null,\"mech\":null,\"note\":\"同一件事：「不是政策锚迁移、价格信号仍由 7 天给出」被第 13 号公告否定；最贴近结果的假说（H5）当时没登成命题\",\"power\":null,\"result\":\"触发\",\"review_on\":null,\"salt\":\"a80d9edddedc32f4388b5b718690c961\",\"settled_at\":\"2026-11-04\",\"side\":\"本命题\",\"th_id\":\"TH-0181\",\"type\":\"K\",\"v\":1,\"verdict\":\"证伪\",\"what\":\"当局出手\",\"why\":\"文本读轻、假说漏立\"}"
+}

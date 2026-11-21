@@ -1,0 +1,6 @@
+{
+ "seq": 265,
+ "item": "K-0004",
+ "leaf": "badd581b5b88a13cf277728a2c3823ef2b5fc5c1f7f3b332278d2891e34a1e2c",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-12\",\"event_key\":\"CN-互换-2026-10\",\"id\":\"K-0004\",\"item\":\"K-0004\",\"j_id\":\"J-0109\",\"margin\":null,\"mech\":null,\"note\":\"立账当天作废：证伪条件分不清熊陡与牛陡，两个相反的世界都会触发；由 TH-0132、TH-0133 取代\",\"power\":null,\"result\":\"对象消失\",\"review_on\":null,\"salt\":\"03f3c031a1e367451f1d1ef20d17198a\",\"settled_at\":\"2026-10-12\",\"side\":\"本命题\",\"th_id\":\"TH-0126\",\"type\":\"K\",\"v\":1,\"verdict\":\"不计\",\"what\":\"定义缺陷\",\"why\":\"口径缺陷\"}"
+}

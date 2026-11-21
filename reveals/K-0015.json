@@ -1,0 +1,6 @@
+{
+ "seq": 395,
+ "item": "K-0015",
+ "leaf": "5ec4cf91331ae0458c3f3f7dcb1c3a7c7679a3e8336ab2189a221e8a82c091c8",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-30\",\"event_key\":\"PBOC-换锚-2026-10-30\",\"id\":\"K-0015\",\"item\":\"K-0015\",\"j_id\":\"J-0155\",\"margin\":null,\"mech\":null,\"note\":\"量的是 DR001 相对 7 天 1.40% 的偏离，换锚后偏离被重新定义；「容忍偏离」与「先在隔夜操作里降价再公布」分不开\",\"power\":null,\"result\":\"对象消失\",\"review_on\":null,\"salt\":\"58750a4da190f710645f0488bd5c9dce\",\"settled_at\":\"2026-11-04\",\"side\":\"本命题\",\"th_id\":\"TH-0180\",\"type\":\"K\",\"v\":1,\"verdict\":\"不计\",\"what\":\"当局出手\",\"why\":\"假说漏立\"}"
+}

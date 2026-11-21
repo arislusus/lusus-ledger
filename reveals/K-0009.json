@@ -1,0 +1,6 @@
+{
+ "seq": 389,
+ "item": "K-0009",
+ "leaf": "ccb485c8f816bed1ec6c9ef9df895bffb61202c1004457897e64f20a438238bd",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-11-04\",\"event_key\":\"US-中期选举-2026-11-03\",\"id\":\"K-0009\",\"item\":\"K-0009\",\"j_id\":\"J-0157\",\"margin\":null,\"mech\":null,\"note\":\"按本哨自己的条款：TH-0146 触发则本哨作废\",\"power\":null,\"result\":\"对象消失\",\"review_on\":null,\"salt\":\"00a2f1d61ebe5c0cff422377f31e48ca\",\"settled_at\":\"2026-11-04\",\"side\":\"本命题\",\"th_id\":\"TH-0182\",\"type\":\"K\",\"v\":1,\"verdict\":\"不计\",\"what\":\"按条款作废\",\"why\":\"无错\"}"
+}

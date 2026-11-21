@@ -1,0 +1,6 @@
+{
+ "seq": 369,
+ "item": "K-0005",
+ "leaf": "14a4a16a34962f9898094986bb5dc9601247c12905dd001b11b887bbedf4fbe1",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-19\",\"event_key\":\"CN-GDP-2026Q3\",\"id\":\"K-0005\",\"item\":\"K-0005\",\"j_id\":\"J-0082\",\"margin\":null,\"mech\":null,\"note\":\"前三季度净出口拉动 1.2 个百分点，高于区间上沿；日志记机制方向也相反（外需拉动没有减半）\",\"power\":null,\"result\":\"触发\",\"review_on\":null,\"salt\":\"60ba3c81be50e2a85e6884454eddc67e\",\"settled_at\":\"2026-10-20\",\"side\":\"本命题\",\"th_id\":\"TH-0095\",\"type\":\"K\",\"v\":1,\"verdict\":\"证伪\",\"what\":\"读数越线\",\"why\":\"机制错\"}"
+}

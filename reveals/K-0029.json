@@ -1,0 +1,6 @@
+{
+ "seq": 352,
+ "item": "K-0029",
+ "leaf": "7e18bfd60a50e8aea7a0a1f66f6b1512e2ff795e33d1540694474165c22784aa",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-17\",\"event_key\":\"R6-共同开关-2026-10-17\",\"id\":\"K-0029\",\"item\":\"K-0029\",\"j_id\":\"J-0120\",\"margin\":null,\"mech\":null,\"note\":\"R6：「选前克制共享同一动机、选后一起松动」对对华三项不成立（休战后 30 天含中国实体清单 0/78）\",\"power\":null,\"result\":\"部分不成立\",\"review_on\":null,\"salt\":\"5dd6d35c62e6debffef24c6206d9b6f2\",\"settled_at\":\"2026-10-17\",\"side\":\"本命题\",\"th_id\":null,\"type\":\"K\",\"v\":1,\"verdict\":\"细化\",\"what\":\"研究复核\",\"why\":\"机制错\"}"
+}

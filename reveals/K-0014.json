@@ -1,0 +1,6 @@
+{
+ "seq": 394,
+ "item": "K-0014",
+ "leaf": "0b19773542a88309e9bfebb38f877d0ca132865b8f24d8bf78be3f17d7e08683",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-30\",\"event_key\":\"PBOC-换锚-2026-10-30\",\"id\":\"K-0014\",\"item\":\"K-0014\",\"j_id\":\"J-0119\",\"margin\":null,\"mech\":null,\"note\":\"合取条件 (b)「期间 7 天逆回购利率未调整」的前提 11-02 消失；J-0119 此前已细化为 J-0155\",\"power\":null,\"result\":\"对象消失\",\"review_on\":null,\"salt\":\"ee0092018da77a689a1b62639802e3cf\",\"settled_at\":\"2026-11-04\",\"side\":\"本命题\",\"th_id\":\"TH-0138\",\"type\":\"K\",\"v\":1,\"verdict\":\"不计\",\"what\":\"当局出手\",\"why\":\"文本读轻\"}"
+}

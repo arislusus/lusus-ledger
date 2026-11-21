@@ -1,0 +1,6 @@
+{
+ "seq": 284,
+ "item": "K-0026",
+ "leaf": "555b9238268cbf730aa21b3b7d195de73095d1a9b806062f773cf9b51a6384e2",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-13\",\"event_key\":\"R2-美债回流-2026-10-13\",\"id\":\"K-0026\",\"item\":\"K-0026\",\"j_id\":\"J-0116\",\"margin\":null,\"mech\":null,\"note\":\"R2：后半句「期限溢价因此上行」不成立或至多次要，改为 J-0130（全球远端重定价）\",\"power\":null,\"result\":\"部分不成立\",\"review_on\":null,\"salt\":\"b75d9ecab502fe92514d3c6b1fc7396b\",\"settled_at\":\"2026-10-13\",\"side\":\"本命题\",\"th_id\":null,\"type\":\"K\",\"v\":1,\"verdict\":\"细化\",\"what\":\"研究复核\",\"why\":\"机制错\"}"
+}

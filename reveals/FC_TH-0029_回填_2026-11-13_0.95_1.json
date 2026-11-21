@@ -1,0 +1,6 @@
+{
+ "seq": 442,
+ "item": "FC:TH-0029:回填:2026-11-13:0.95#1",
+ "leaf": "7cc589d12af60512cfdcb3554f3e74cce947f7bf573578b9d5c6577b8ee64556",
+ "payload": "{\"at\":\"2026-11-13\",\"interim_seen\":0,\"item\":\"FC:TH-0029:回填:2026-11-13:0.95#1\",\"note\":\"回填：Opus 95%、Sonnet 95%，取平均\",\"p_pass\":0.95,\"salt\":\"a75b87c3dedff3a4a68eddd6579b8c37\",\"src\":\"回填\",\"th_id\":\"TH-0029\",\"type\":\"FC\",\"v\":1}"
+}

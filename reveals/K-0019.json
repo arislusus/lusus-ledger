@@ -1,0 +1,6 @@
+{
+ "seq": 414,
+ "item": "K-0019",
+ "leaf": "8bdfc9a9134f296ec3c34b40027046c36c15faacddb719072a6d226962402760",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-28\",\"event_key\":\"FOMC-2026-10-28\",\"id\":\"K-0019\",\"item\":\"K-0019\",\"j_id\":\"J-0133\",\"margin\":\"远\",\"mech\":\"得到支持\",\"note\":\"会前一日定价 95%，决议日 2 年期 −3bp；对立情形要求会前定价不到八成，事前就不太会出现\",\"power\":\"低\",\"result\":\"未触发\",\"review_on\":null,\"salt\":\"0602be50100cea239e87d814b79e92fe\",\"settled_at\":\"2026-11-08\",\"side\":\"本命题\",\"th_id\":\"TH-0155\",\"type\":\"K\",\"v\":1,\"verdict\":\"过关\",\"what\":null,\"why\":null}"
+}

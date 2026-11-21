@@ -1,0 +1,6 @@
+{
+ "seq": 415,
+ "item": "K-0020",
+ "leaf": "7eebab3c68145adbffc86e0a49a1fad55f30d232c9620dfa1ea6fd436b16882c",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-30\",\"event_key\":\"BOJ-2026-10-30\",\"id\":\"K-0020\",\"item\":\"K-0020\",\"j_id\":\"J-0125\",\"margin\":\"远\",\"mech\":\"得到支持\",\"note\":\"展望报告把基础通胀判断改为「已处在」目标水平、风险仍偏上，比判断更强；会前约九成已隐含\",\"power\":\"低\",\"result\":\"未触发\",\"review_on\":null,\"salt\":\"72b4f44d1203df122b622c343ada63a1\",\"settled_at\":\"2026-11-08\",\"side\":\"本命题\",\"th_id\":\"TH-0145\",\"type\":\"K\",\"v\":1,\"verdict\":\"过关\",\"what\":null,\"why\":null}"
+}

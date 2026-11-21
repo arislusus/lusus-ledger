@@ -1,0 +1,6 @@
+{
+ "seq": 387,
+ "item": "K-0007",
+ "leaf": "a821848ac512f1daa27bbe3464df040500a19a1ec12ed699f186143b4f7f5d7c",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-11-02\",\"event_key\":\"US-中期选举-2026-11-03\",\"id\":\"K-0007\",\"item\":\"K-0007\",\"j_id\":\"J-0157\",\"margin\":null,\"mech\":null,\"note\":\"11-02 美方打击格什姆岛：把 10-08「不打」的表态当成了选前不会动武的事实\",\"power\":null,\"result\":\"触发\",\"review_on\":null,\"salt\":\"0d12891dc759c3458b6cf45a7e27fc95\",\"settled_at\":\"2026-11-04\",\"side\":\"本命题\",\"th_id\":\"TH-0146\",\"type\":\"K\",\"v\":1,\"verdict\":\"证伪\",\"what\":\"当局出手\",\"why\":\"文本读重\"}"
+}

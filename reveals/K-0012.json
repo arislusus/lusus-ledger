@@ -1,0 +1,6 @@
+{
+ "seq": 392,
+ "item": "K-0012",
+ "leaf": "776a6934081b350f4d8cf6b2fe6450db03d9118a6d6a091fe3df25a0649a1586",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-30\",\"event_key\":\"PBOC-换锚-2026-10-30\",\"id\":\"K-0012\",\"item\":\"K-0012\",\"j_id\":\"J-0060\",\"margin\":null,\"mech\":null,\"note\":\"7 天固定利率 11-02 起不存在，检验对象消失；判断已细化为 J-0171。严口径算一次没过\",\"power\":null,\"result\":\"对象消失\",\"review_on\":null,\"salt\":\"974178d4dbab5c6c8f3e4d28d8db7bb4\",\"settled_at\":\"2026-11-04\",\"side\":\"本命题\",\"th_id\":\"TH-0071\",\"type\":\"K\",\"v\":1,\"verdict\":\"不计\",\"what\":\"当局出手\",\"why\":\"文本读轻\"}"
+}

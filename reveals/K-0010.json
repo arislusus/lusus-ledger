@@ -1,0 +1,6 @@
+{
+ "seq": 390,
+ "item": "K-0010",
+ "leaf": "ad56c549f430ed0529f5835fc7be774de908d1886bf37c7e2187c1af95fb0c4e",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-30\",\"event_key\":\"PBOC-换锚-2026-10-30\",\"id\":\"K-0010\",\"item\":\"K-0010\",\"j_id\":\"J-0058\",\"margin\":null,\"mech\":null,\"note\":\"10-30 第 13 号公告把政策锚由 7 天迁到隔夜；二季度报告已写明操作目标转向 DR001，潘功胜 10-19 也预告过，没当回事\",\"power\":null,\"result\":\"触发\",\"review_on\":null,\"salt\":\"48deb0d0c1a2b13d391b048533f6e5ce\",\"settled_at\":\"2026-11-04\",\"side\":\"本命题\",\"th_id\":\"TH-0069\",\"type\":\"K\",\"v\":1,\"verdict\":\"证伪\",\"what\":\"当局出手\",\"why\":\"文本读轻、假说漏立\"}"
+}

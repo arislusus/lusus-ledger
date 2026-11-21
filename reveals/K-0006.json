@@ -1,0 +1,6 @@
+{
+ "seq": 370,
+ "item": "K-0006",
+ "leaf": "d93afc7247e27c6928148ca4423f2f540b8198b0e7b3d73139a16d326994a152",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-16\",\"event_key\":\"US-Graham法-2026-10-18\",\"id\":\"K-0006\",\"item\":\"K-0006\",\"j_id\":\"J-0111\",\"margin\":null,\"mech\":null,\"note\":\"10-16 行政令对 Graham 法全部关税行使第 115 条豁免；判断所依「豁免有硬到期日」被否，证伪线设在选前也缺分辨力\",\"power\":null,\"result\":\"触发\",\"review_on\":null,\"salt\":\"898407c0bdde00b2d0513e808093069c\",\"settled_at\":\"2026-10-20\",\"side\":\"本命题\",\"th_id\":\"TH-0128\",\"type\":\"K\",\"v\":1,\"verdict\":\"证伪\",\"what\":\"当局出手\",\"why\":\"机制错、口径缺陷\"}"
+}

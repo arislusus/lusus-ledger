@@ -1,0 +1,6 @@
+{
+ "seq": 419,
+ "item": "K-0024",
+ "leaf": "73fa7e1e0c446e5f73670c02623c8f99f4f9a1c623950005d29fae7ac4f3b922",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-10-30\",\"event_key\":\"EU-加拿大峰会-2026-10-30\",\"id\":\"K-0024\",\"item\":\"K-0024\",\"j_id\":\"J-0020\",\"margin\":null,\"mech\":null,\"note\":\"联合声明只有部门协定、合作标签与「2027 年前界定概念」，草案从头到尾没有「启动谈判」；立账时引的 Kalshi 65% 是单日冲高\",\"power\":null,\"result\":\"触发\",\"review_on\":null,\"salt\":\"f62bbbb6104c12d0ce7fcf369b5fb126\",\"settled_at\":\"2026-11-08\",\"side\":\"本命题\",\"th_id\":\"TH-0023\",\"type\":\"K\",\"v\":1,\"verdict\":\"证伪\",\"what\":\"事件未兑现\",\"why\":\"文本读重、事实错\"}"
+}

@@ -1,0 +1,6 @@
+{
+ "seq": 416,
+ "item": "K-0021",
+ "leaf": "ebf388ace39f8e7c912721b8d0d73eb460c3c07924e3a03f01dddf1d9cfc191a",
+ "payload": "{\"basis\":null,\"decided_at\":\"2026-11-04\",\"event_key\":\"UK-预算-2026-10-28\",\"id\":\"K-0021\",\"item\":\"K-0021\",\"j_id\":\"J-0027\",\"margin\":\"远\",\"mech\":\"得到支持\",\"note\":\"欧元兑英镑 −0.2%，英德利差收窄 12bp，两腿都远；初稿只取了汇率腿，利差腿是复核者补的\",\"power\":\"中\",\"result\":\"未触发\",\"review_on\":null,\"salt\":\"0c50061fe62ebcfcf689dadb6d18924d\",\"settled_at\":\"2026-11-08\",\"side\":\"本命题\",\"th_id\":\"TH-0031\",\"type\":\"K\",\"v\":1,\"verdict\":\"过关\",\"what\":null,\"why\":null}"
+}

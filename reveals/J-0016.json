@@ -1,0 +1,6 @@
+{
+ "seq": 26,
+ "item": "J-0016",
+ "leaf": "b8b384df30deac0ef699d364d550cfc7bee2647af1be974a6fe88007b7d25cd0",
+ "payload": "{\"as_of\":\"2026-09-25\",\"confidence\":\"中\",\"deps\":[\"F-000164\",\"F-000165\",\"F-000166\",\"F-000175\",\"F-000198\"],\"id\":\"J-0016\",\"item\":\"J-0016\",\"magnitude\":null,\"paradigm\":null,\"pricing\":\"变体命题\",\"ruling\":null,\"salt\":\"efcaf6450bdb1f81538e5cd9d487897d\",\"status\":\"梗概\",\"step\":\"4\",\"tags\":{\"bet\":\"数值\",\"domain\":\"中国\",\"driver\":\"数据\",\"event_key\":\"CN-服务业生产指数-2026-10\",\"failure\":null,\"parent_j\":null},\"text\":\"卖方共识在四季度缺口的方向上错了：缺口收窄而非扩大，错因是把汽车的政策与能源冲击读成全面需求不足；这一错误将在 10 月 20 日至 12 月 15 日的三次数据中被修正\",\"type\":\"J\",\"v\":1}"
+}
