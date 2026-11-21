@@ -24,7 +24,7 @@ for f in files:
             print(f"提示：{f.name}{ext} 不存在")
 ids = {}
 for e in by_seq.values():
-    m = re.fullmatch(r"(J|TH|K)-(\d+)", e["item"])
+    m = re.fullmatch(r"(J|TH|K|RD)-(\d+)", e["item"])
     if m:
         ids.setdefault(m.group(1), []).append(int(m.group(2)))
 for t, ns in sorted(ids.items()):
